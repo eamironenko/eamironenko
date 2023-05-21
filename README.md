@@ -6,8 +6,7 @@
 
 **About Me**
 * :woman_technologist:I'm a web-developer
-* :earth_africa: Originally from Russia, now based in Saudi Arabia
-* :open_book: I've completed a one-year web-development course
+* :open_book: Open to cooperation and new projects
 * :mailbox:Reach me by email
 ---
 **:hammer_and_wrench: Languages and tools:**
