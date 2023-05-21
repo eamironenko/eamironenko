@@ -26,6 +26,6 @@
 ---
 **:fire: My Stats**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eamironenko&theme=dark&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eamironenko&theme=dark&background=808080)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eamironenko&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
