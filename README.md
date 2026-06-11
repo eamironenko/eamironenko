@@ -5,7 +5,7 @@
 </div>
 
 **About Me**
-* :woman_technologist:I'm a Web-developer
+* :woman_technologist:I'm Data Analyst, Business Analyst, Geological sphere
 * :open_book: Open to cooperation and new projects
 * :mailbox:Reach me by email
 ---
